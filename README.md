@@ -11,7 +11,7 @@ Olá, eu sou a Júlia Lindsay! ♡
   <a href="https://www.linkedin.com/in/j%C3%BAlia-lindsay-29081a433/">
     <img src="https://img.shields.io/badge/LinkedIn-18181b?style=for-the-badge&logo=linkedin&logoColor=ff69b4" />
   </a>
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/julia-lindsay">
     <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=ff69b4" />
   </a>
 </p>

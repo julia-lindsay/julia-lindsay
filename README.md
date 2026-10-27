@@ -45,9 +45,11 @@ Acredito que cada erro ensina algo novo e que cada projeto é uma oportunidade d
 
 *projects*
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+  <img src="./assets/girl-code-pink.png" width="400" alt="Girl Code — programação em tons de rosa" />
 </p>
+
 
 SaveUp
 

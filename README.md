@@ -1,78 +1,22 @@
-<h3 align="center">🎓 Estudante de Engenharia de Software</h3>
 <p align="center">
-
-  <code>Learning • Coding • Evolving</code>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software;Aprendendo+programa%C3%A7%C3%A3o;Transformando+ideias+em+c%C3%B3digo!" alt="Texto animado"/>
 </p>
-<p align="left">
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github" alt="Tecnologias"/>
 </p>
-const julia = {
-
-  nome: "Júlia Lindsay",
-
-  curso: "Engenharia de Software",
-
-  estudando: [
-
-    "HTML",
-
-    "CSS",
-
-    "JavaScript",
-
-    "SQL",
-
-    "Git e GitHub",
-
-    "Lógica de Programação"
-
-  ],
-
-  interesses: [
-
-    "Desenvolvimento Web",
-
-    "Inteligência Artificial",
-
-    "Engenharia de Software",
-
-    "Tecnologia e Inovação"
-
-  ],
-
-  objetivo: "Transformar ideias em soluções digitais"
-
-};
-
-console.log("Bem-vindo ao meu GitHub! 💚");
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark" alt="Linguagens mais utilizadas"/>
+</p>
 while (true) {
-  learn();
-  code();
-  fixBugs();
-  buildProjects();
-  evolve();
+    aprender();
+    praticar();
+    desenvolverProjetos();
+    evoluir();
 }
 <p align="center">
-  <code>01001000 01100101 01101100 01101100 01101111</code>
-</p>
-
-<p align="center">
-  💻 Transformando ideias em código, um projeto de cada vez. 🚀
-</p>
-
-<p align="center">
-  <b>Obrigada por visitar meu perfil! 💚</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=100&section=footer" alt="Rodapé animado"/>
 </p>

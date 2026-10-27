@@ -8,12 +8,6 @@
   <code>Learning • Coding • Evolving</code>
 </p>
 
-```bash
-> Inicializando perfil...
-> Usuária: Júlia Lindsay
-> Curso: Engenharia de Software
-> Status: APRENDENDO...
-> Objetivo: Transformar ideias em código
 
 const julia = {
     nome: "Júlia Lindsay",

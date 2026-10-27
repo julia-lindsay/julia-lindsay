@@ -8,8 +8,7 @@
   <a href="https://www.linkedin.com/in/j%C3%BAlia-lindsay-29081a433/">
     <img src="https://img.shields.io/badge/LINKEDIN-18181b?style=for-the-badge&logo=linkedin&logoColor=ff69b4" />
   </a>
-  <img src="https://img.shields.io/badge/FOCO-TECNOLOGIA-18181b?style=for-the-badge&labelColor=18181b&color=9d4edd" />
-  <img src="https://img.shields.io/badge/STATUS-APRENDENDO-18181b?style=for-the-badge&logo=codewars&logoColor=ff69b4" />
+
 </p>
 
 ⸻

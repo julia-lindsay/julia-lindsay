@@ -1,101 +1,96 @@
-👩‍💻 Olá! Eu sou a Júlia Lindsay
+👩‍💻Júlia Lindsay | Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;T%C3%A9cnica+em+Desenvolvimento+de+Sistemas;Aprendendo+evoluindo+e+programando!" alt="Texto animado"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=Initializing+profile...;Software+Engineering+Student;Learning+to+code...;Error%3F+Just+another+lesson!" alt="Animação de texto"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-8B0000?style=for-the-badge" alt="Foco"/>
 </p>
 
 ⸻
 
-✨ Sobre mim
+💻 whoami
 
-🎓 Sou estudante de Engenharia de Software e técnica em Desenvolvimento de Sistemas.
+> Initializing user...
+> Name: Júlia Lindsay
+> Education: Software Engineering
+> Qualification: Systems Development Technician
+> Status: Learning and coding...
+> Access granted. Welcome! 
 
-💻 Estou construindo minha jornada na tecnologia, aprendendo linguagens de programação e desenvolvendo projetos para colocar meus conhecimentos em prática.
+👩‍💻 about_me.exe
 
-🧠 Gosto de aprender coisas novas, resolver problemas e explorar diferentes possibilidades dentro do desenvolvimento de software.
+Olá! Sou a Júlia Lindsay, estudante de Engenharia de Software e técnica em Desenvolvimento de Sistemas.
 
-🚀 Meu objetivo é evoluir constantemente, construir um portfólio profissional e transformar ideias em soluções digitais.
+Estou construindo minha jornada na tecnologia, aprendendo programação e desenvolvendo projetos para transformar ideias em soluções digitais.
 
-⸻
+Gosto de explorar novas tecnologias, resolver problemas e aprimorar minhas habilidades a cada linha de código.
 
-🛠️ Tecnologias que estou aprendendo
+Meu objetivo é crescer profissionalmente na área de desenvolvimento de software e construir projetos que demonstrem minha evolução.
+
+🔴 skills --learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github" alt="HTML, CSS, JavaScript, MySQL, Git e GitHub"/>
+  <img src="https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-B22222?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MySQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=FF0000" alt="GitHub"/>
 </p>
 
-* 🌐 HTML e CSS — estrutura e estilo de páginas web.
-* ⚡ JavaScript — lógica e interatividade.
-* 🗄️ SQL e MySQL — banco de dados.
-* 🔧 Git e GitHub — versionamento e organização de projetos.
-* 🧩 Lógica de programação — resolução de problemas.
+🚀 current_mission
 
-⸻
+[01] Learn new technologies
+[02] Practice programming logic
+[03] Build personal projects
+[04] Improve problem-solving skills
+[05] Become a better developer
 
-🚀 Meus projetos
+🖥️ projects.exe
 
-📌 Projetos acadêmicos: desenvolvimento de soluções para aplicar os conhecimentos adquiridos em Engenharia de Software.
+* 🌐 Web Development: criação de páginas e interfaces.
+* 💡 Personal Projects: colocando ideias em prática com código.
+* 📚 Academic Projects: aplicando conhecimentos de Engenharia de Software.
 
-💡 Projetos pessoais: criação de páginas web, experimentos com programação e novas ideias tecnológicas.
-
-🖥️ Meu portfólio: em construção, com novos projetos e aprendizados.
-
-⸻
-
-📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Linguagens do GitHub"/>
-</p>
-
-⸻
-
-🎯 Meus objetivos
-
-* 📚 Aprender novas tecnologias.
-* 💻 Desenvolver projetos práticos.
-* 🧠 Aprimorar minha lógica de programação.
-* 🌱 Crescer profissionalmente na área de tecnologia.
-* 🤖 Explorar possibilidades da Inteligência Artificial.
-* 🚀 Construir um portfólio cada vez melhor.
-
-⸻
-
-💚 Minha filosofia
+⚠️ developer_mode
 
 const julia = {
-  foco: "Aprendizado contínuo",
-  objetivo: "Criar soluções digitais",
-  mentalidade: "Nunca parar de evoluir"
+    name: "Júlia Lindsay",
+    area: "Software Engineering",
+    status: "Always learning",
+    mindset: "Never stop improving"
 };
-while (true) {
-  aprender();
-  praticar();
-  desenvolver();
-  evoluir();
+function developerLife() {
+    while (true) {
+        learn();
+        code();
+        findBugs();
+        fixBugs();
+        improve();
+    }
 }
 
-⸻
-
-📫 Vamos nos conectar?
+📡 connection_status
 
 <p align="left">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20projects-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ⸻
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=100&section=footer" alt="Rodapé animado"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer" alt="Rodapé vermelho"/>
 </p>
 <p align="center">
-  💻 <b>Aprendendo hoje, desenvolvendo o futuro!</b> 🚀
+  <code>ERROR 404: LIMITS NOT FOUND</code>
+</p>
+<p align="center">
+  🔴 <b>Every bug is a lesson. Every project is progress.</b> 🔴
 </p>

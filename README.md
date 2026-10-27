@@ -3,5 +3,6 @@
 </p>
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark" alt="Linguagens mais utilizadas"/>
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=100&section=footer" alt="Rodapé animado"/>
 </p>

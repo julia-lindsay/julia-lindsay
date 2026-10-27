@@ -13,7 +13,7 @@
 
 ⸻
 
-01 — whoami
+01 whoami
 
 class JuliaLindsay:
     def __init__(self):
@@ -34,7 +34,7 @@ Sou estudante de Engenharia de Software e técnica em Desenvolvimento de Sistema
 
 Acredito que cada erro ensina algo novo e que cada projeto é uma oportunidade de evoluir.
 
-02 — tech stack
+02 tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode&theme=dark" />
@@ -44,7 +44,7 @@ Acredito que cada erro ensina algo novo e que cada projeto é uma oportunidade d
   <img src="https://img.shields.io/badge/Powered%20by-Curiosity-9d4edd?style=flat-square" />
 </p>
 
-03 — projects
+03 projects
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />

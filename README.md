@@ -46,10 +46,6 @@ Acredito que cada erro ensina algo novo e que cada projeto é uma oportunidade d
 *projects*
 
 
-<p align="center">
-  <img src="./assets/girl-code-pink.png" width="400" alt="Girl Code — programação em tons de rosa" />
-</p>
-
 
 SaveUp
 

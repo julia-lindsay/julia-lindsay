@@ -1,96 +1,59 @@
-👩‍💻Júlia Lindsay | Developer
+Júlia Lindsay
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=Initializing+profile...;Software+Engineering+Student;Learning+to+code...;Error%3F+Just+another+lesson!" alt="Animação de texto"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
-  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-8B0000?style=for-the-badge" alt="Foco"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=E879AC&center=true&vCenter=true&width=550&lines=Estudante+de+Engenharia+de+Software;Aprendendo+e+desenvolvendo+projetos;Transformando+ideias+em+c%C3%B3digo" alt="Apresentação animada"/>
 </p>
 
 ⸻
 
-💻 whoami
+Sobre mim
 
-> Initializing user...
-> Name: Júlia Lindsay
-> Education: Software Engineering
-> Qualification: Systems Development Technician
-> Status: Learning and coding...
-> Access granted. Welcome! 
+Olá! Sou estudante de Engenharia de Software e técnica em Desenvolvimento de Sistemas.
 
-👩‍💻 about_me.exe
+Estou desenvolvendo minhas habilidades em programação, explorando novas tecnologias e criando projetos para colocar meus conhecimentos em prática.
 
-Olá! Sou a Júlia Lindsay, estudante de Engenharia de Software e técnica em Desenvolvimento de Sistemas.
+Meu objetivo é crescer profissionalmente na área de tecnologia, aprimorar minha lógica de programação e transformar ideias em soluções digitais.
 
-Estou construindo minha jornada na tecnologia, aprendendo programação e desenvolvendo projetos para transformar ideias em soluções digitais.
-
-Gosto de explorar novas tecnologias, resolver problemas e aprimorar minhas habilidades a cada linha de código.
-
-Meu objetivo é crescer profissionalmente na área de desenvolvimento de software e construir projetos que demonstrem minha evolução.
-
-🔴 skills --learning
+Tecnologias que estou aprendendo
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-B22222?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/MySQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=FF0000" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github" alt="Tecnologias"/>
 </p>
 
-🚀 current_mission
+* HTML e CSS
+* JavaScript
+* SQL e MySQL
+* Git e GitHub
+* Lógica de programação
 
-[01] Learn new technologies
-[02] Practice programming logic
-[03] Build personal projects
-[04] Improve problem-solving skills
-[05] Become a better developer
+Objetivos
 
-🖥️ projects.exe
+* Desenvolver projetos práticos.
+* Aprimorar minhas habilidades técnicas.
+* Aprender novas tecnologias.
+* Construir meu portfólio profissional.
+* Evoluir continuamente como desenvolvedora.
 
-* 🌐 Web Development: criação de páginas e interfaces.
-* 💡 Personal Projects: colocando ideias em prática com código.
-* 📚 Academic Projects: aplicando conhecimentos de Engenharia de Software.
+Projetos
 
-⚠️ developer_mode
+Utilizo meus projetos acadêmicos e pessoais para praticar programação, explorar novas ideias e desenvolver soluções digitais.
 
-const julia = {
-    name: "Júlia Lindsay",
-    area: "Software Engineering",
-    status: "Always learning",
-    mindset: "Never stop improving"
-};
-function developerLife() {
-    while (true) {
-        learn();
-        code();
-        findBugs();
-        fixBugs();
-        improve();
-    }
-}
-
-📡 connection_status
+Vamos nos conectar?
 
 <p align="left">
   <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20projects-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-E879AC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-F4A6C8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ⸻
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer" alt="Rodapé vermelho"/>
+  <i>Aprendendo, praticando e evoluindo a cada projeto.</i>
 </p>
 <p align="center">
-  <code>ERROR 404: LIMITS NOT FOUND</code>
-</p>
-<p align="center">
-  🔴 <b>Every bug is a lesson. Every project is progress.</b> 🔴
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E879AC&height=90&section=footer" alt="Rodapé rosa"/>
 </p>

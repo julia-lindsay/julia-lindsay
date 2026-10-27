@@ -14,29 +14,14 @@
 
 *whoami*
 
-class JuliaLindsay:
-    def __init__(self):
-        self.formacao = [
-            "Engenharia de Software",
-            "Técnica em Desenvolvimento de Sistemas"
-        ]
+-Estudante de Engenharia de Software
 
-        self.interesses = [
-            "Desenvolvimento de Software",
-            "Inteligência Artificial",
-            "Desenvolvimento Web"
-        ]
+-Técnica em Desenvolvimento de Sistemas
 
-        self.objetivo = "Transformar ideias em soluções reais"
+-Sempre buscando aprender novas tecnologias
 
-    def aprender(self):
-        return "Sempre evoluindo, um código por vez."
+-Meu objetivo é transformar ideias em soluções reais.
 
-
-if __name__ == "__main__":
-    julia = JuliaLindsay()
-    print(julia.aprender())
-Sou estudante de Engenharia de Software e técnica em Desenvolvimento de Sistemas. Gosto de explorar novas tecnologias, desenvolver projetos e transformar conhecimento em soluções digitais.
 
 Acredito que cada erro ensina algo novo e que cada projeto é uma oportunidade de evoluir.
 

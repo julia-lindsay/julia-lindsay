@@ -12,7 +12,7 @@
 </p>
 
 
-01 whoami
+*whoami*
 
 class JuliaLindsay:
     def __init__(self):
@@ -33,7 +33,7 @@ Sou estudante de Engenharia de Software e técnica em Desenvolvimento de Sistema
 
 Acredito que cada erro ensina algo novo e que cada projeto é uma oportunidade de evoluir.
 
-02 tech stack
+*tech stack*
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode&theme=dark" />
@@ -43,7 +43,7 @@ Acredito que cada erro ensina algo novo e que cada projeto é uma oportunidade d
   <img src="https://img.shields.io/badge/Powered%20by-Curiosity-9d4edd?style=flat-square" />
 </p>
 
-03 projects
+*projects*
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
@@ -53,7 +53,7 @@ SaveUp
 
 Projeto acadêmico voltado à organização financeira de microempreendedores individuais, com foco no controle de receitas, gastos e despesas.
 
-04 — current mission
+*current mission*
 
 * [x]	Iniciar minha jornada na tecnologia.
 * [x]	Construir minha base em desenvolvimento de sistemas.
@@ -61,7 +61,7 @@ Projeto acadêmico voltado à organização financeira de microempreendedores in
 * [ ]	Desenvolver projetos cada vez mais completos.
 * [ ]	Explorar novas possibilidades na Engenharia de Software.
 
-05 — let’s connect
+*let’s connect*
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=O+futuro+%C3%A9+constru%C3%ADdo+linha+por+linha.;Vamos+construir+algo+incr%C3%ADvel%3F" />

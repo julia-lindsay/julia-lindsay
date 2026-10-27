@@ -4,8 +4,6 @@ Júlia Lindsay
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=E879AC&center=true&vCenter=true&width=550&lines=Estudante+de+Engenharia+de+Software;Aprendendo+e+desenvolvendo+projetos;Transformando+ideias+em+c%C3%B3digo" alt="Apresentação animada"/>
 </p>
 
-⸻
-
 Sobre mim
 
 Olá! Sou estudante de Engenharia de Software e técnica em Desenvolvimento de Sistemas.
